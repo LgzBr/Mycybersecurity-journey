@@ -70,8 +70,8 @@ Documenting my path toward becoming a SOC Analyst.
 
 ---
 
-## 📝 Notes
-*(em breve)*
+## Labs
+
 
 ---
 
