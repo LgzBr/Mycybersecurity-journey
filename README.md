@@ -1,6 +1,6 @@
-# 🛡️ My Cybersecurity Journey
+![Banner](https://raw.githubusercontent.com/frankllin-sec/Labs-experience/main/My%20Journey.png)
 
-Documenting my path toward becoming a SOC Analyst.
+# Documenting my path toward becoming a SOC Analyst.🛡️
 
 ## 📚 What I Learned
 
