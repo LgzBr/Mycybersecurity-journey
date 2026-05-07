@@ -46,6 +46,7 @@
   - Active Directory Basics
   - Windows Command Line
   - Windows PowerShell
+  - Networking Concepts
   - 
   
   
