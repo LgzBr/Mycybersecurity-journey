@@ -56,6 +56,7 @@
   - Cryptography Basics
   - Moniker Link (CVE-2024-21413)
   - Metasploit: Introduction
+  - Metasploit: Exploitation
   
   
 
