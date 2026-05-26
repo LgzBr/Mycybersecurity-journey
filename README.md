@@ -61,6 +61,7 @@
   - JavaScript Essentials
   - SQL Fundamentals
   - Hydra
+  - Gobuster: The Basics
 
   
   
