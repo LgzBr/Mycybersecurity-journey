@@ -65,6 +65,7 @@
   - Shells Overview
   - SOC Fundamentals
   - Digital Forensics Fundamentals
+  - Incident Response
 
 
   
