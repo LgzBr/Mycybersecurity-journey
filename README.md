@@ -68,6 +68,8 @@
   - Incident Response
   - Logs Fundamentals
   - Introduction to SIEM
+  - Firewall Fundamentals
+  - 
 
 
   
