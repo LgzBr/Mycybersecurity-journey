@@ -76,7 +76,7 @@
   - Training Impact on Teams
   - OWASP Top 10 2025: IAAA Failures
   - OWASP Top 10 2025: Application Design Flaws
-  - 
+  - OWASP Top 10 2025: Insecure Data Handling
 
 
   
