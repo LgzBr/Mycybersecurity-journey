@@ -73,7 +73,7 @@
   - Vulnerability Scanner Overview
   - CyberChef: The Basics completed!
   - CAPA: The Basics
-  - 
+  - Training Impact on Teams
 
 
   
