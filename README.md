@@ -69,6 +69,7 @@
   - Logs Fundamentals
   - Introduction to SIEM
   - Firewall Fundamentals
+  - IDS Fundamentals
   - 
 
 
