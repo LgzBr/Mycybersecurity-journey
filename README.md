@@ -70,7 +70,7 @@
   - Introduction to SIEM
   - Firewall Fundamentals
   - IDS Fundamentals
-  - 
+  - Vulnerability Scanner Overview
 
 
   
